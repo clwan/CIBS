@@ -1,1 +1,2 @@
-# CIBS
+# A data denoising approach to optimize functional clustering of single cell RNA-sequencing data
+Here we introduce CIBS, a data denoising approach for functional cell cluster identification from single cell RNA-sequencing data. Please follow the GSE103322_CIBS.R file for detailed implementation of CIBS analysis pipeline on the head and neck cancer data. Due to the size limit of upload file, please download the original expression profile of head and neck data in the GEO database under the accession number of GSE103322. For further inquires, please reach wan82@purdue.edu. 
